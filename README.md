@@ -1,56 +1,120 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Hafizh%20Muzani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Machine%20Learning%20%7C%20IT%20Student&descAlignY=55&descAlign=50" width="100%" />
+  <img src="spiderman-vs-venom.gif" alt="Spider-Man vs Venom header" />
 </div>
 
 <div align="center">
-  <a href="https://hafizhmuzani.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:earlyright22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/hafizhmuzani?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20Symbiote%20Universe&fontSize=31&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="Welcome to My Symbiote Universe" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%" alt="White divider" />
 </div>
 
-<br />
+<p align="center">
+  We are pursuing a Bachelor's degree in Informatics Engineering at Universitas Dian Nuswantoro (UDINUS), Semarang. Our learning journey is focused on software development, data analysis, artificial intelligence, and machine learning, with a long-term goal of transforming raw data into actionable insights, decision-support tools, and intelligent systems that create real impact.
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=IT+Student+at+UDINUS+%F0%9F%8E%93;Fullstack+TypeScript+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+%26+Automation+Bots+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://hafizhmuzani.my.id"><img src="https://img.shields.io/badge/Portfolio-hafizhmuzani.my.id-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=111111" alt="Portfolio" /></a>
+  <a href="mailto:earlyright22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=111111" alt="Email" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=111111" alt="LinkedIn" /></a>
+  <a href="https://github.com/hafizhmuzani?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hafizhmuzani&style=for-the-badge&color=ffffff&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hafizhmuzani?style=for-the-badge&color=ffffff&labelColor=111111&label=Followers" alt="GitHub followers" />
+</p>
 
 ---
 
-### 👨‍💻 Tentang Saya
-Saya adalah mahasiswa **Teknik Informatika** di Universitas Dian Nuswantoro (UDINUS) Semarang. Memiliki ketertarikan pada pengembangan perangkat lunak (*Software Development*) dan Kecerdasan Buatan (*Machine Learning*).
+<h3>📚 About Us</h3>
 
-- 🎓 **Edukasi:** S1 Teknik Informatika - UDINUS
-- 💡 **Fokus Utama:** TypeScript, Python, Web Development, Data Science
-- 🚀 **Projek Aktif:** Bot Presensi Otomatis, Prediksi ML Kelulusan, Platform E-Commerce
-- 📫 **Portofolio:** [hafizhmuzani.my.id](https://hafizhmuzani.my.id)
+<div align="left">
+  <img align="left" src="venom-header.gif" width="280" alt="Venom Symbiote" style="margin-right: 20px; margin-bottom: 20px;" />
+</div>
+
+- 🏆 Builders of automated attendance systems and machine learning experiments
+- 🔬 Interested in AI systems, automation, and data-driven products
+- 📊 Analyzing data, building dashboards, and turning insights into practical solutions
+- 🌱 Growing through research, hands-on projects, and open-source learning
+- 🧩 We enjoy breaking down complex problems into clear, maintainable, and scalable solutions
+- 🚀 Exploring how automation, web systems, and cloud infrastructure can work together in real products
+- 📚 Continuously improving through projects, documentation, and experimentation
+
+<br clear="left" />
+
+<h3>🦠 What We're Building Toward</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎯 Direction</strong>
+      <ul>
+        <li>Intelligent applications that connect data, models, and user needs</li>
+        <li>Automation workflows that turn repetitive processes into reliable systems</li>
+        <li>Practical AI deployments that move beyond notebooks into real usage</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔭 Current Focus</strong>
+      <ul>
+        <li>Web development using TypeScript, Next.js, and modern UI frameworks</li>
+        <li>Machine learning, data science, and intelligent system design</li>
+        <li>Backend APIs, automation scripts, and reliable production deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css,tailwind,react,nextjs&theme=light" /><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,vscode,figma,linux&theme=light" />
-</div>
+<h3>🧰 Symbiote Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=ffffff" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=ffffff" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=ffffff" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=ffffff" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
+</p>
 
 ---
 
-### 📊 Statistik & Aktivitas GitHub
-<div align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=hafizhmuzani&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=007ACC&text_color=434d58&icon_color=007ACC&bg_color=ffffff" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=hafizhmuzani&hide_border=true&background=ffffff&ring=007ACC&fire=007ACC&currStreakNum=434d58&currStreakLabel=007ACC&sideNums=434d58&sideLabels=007ACC&dates=434d58" height="165" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs?username=hafizhmuzani&layout=compact&hide_border=true&title_color=007ACC&text_color=434d58&bg_color=ffffff" height="165" alt="Top Languages" />
-</div>
+<h3>📊 Symbiote Stats</h3>
+
+<table align="center">
+  <tr>
+    <td width="49%" valign="top">
+      <img width="100%" src="https://ghstats.dev/api/card?username=hafizhmuzani&bg=0a0a0a&text=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Activity%20Log" alt="GitHub activity log" />
+    </td>
+    <td width="2%"></td>
+    <td width="49%" valign="top">
+      <img width="100%" src="https://ghstats.dev/api/langs?username=hafizhmuzani&layout=bar&max_langs=6&bg=0a0a0a&text=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&custom_title=Language%20Garden" alt="Language garden" />
+      <br/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=hafizhmuzani&theme=dark&hide_border=true&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&card_height=250" alt="GitHub streak stats" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hafizhmuzani&label=Profile%20Views&color=007ACC&style=flat-square" alt="Visitor Badge" />
+  <img src="venom-footer.jpg" alt="Venom footer" width="100%" />
 </div>
+
+<p align="center">
+  <em>We are Venom. 🕷️🧪</em>
+</p>
