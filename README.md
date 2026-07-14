@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="spiderman-vs-venom.gif" alt="Spider-Man vs Venom header" width="100%" />
+  <img src="spiderman-vs-venom.gif" alt="Spider-Man vs Venom header" width="92%" />
 </div>
 
 <div align="center">
