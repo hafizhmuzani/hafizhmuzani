@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://hafizhmuzani.my.id">
+  <a href="https://hafizhmuzani.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:earlyright22@gmail.com">
@@ -39,12 +39,12 @@ Saya adalah mahasiswa **Teknik Informatika** di Universitas Dian Nuswantoro (UDI
 
 ### 📊 Statistik GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizhmuzani&show_icons=true&hide_border=true&bg_color=ffffff&title_color=007ACC&text_color=434d58&icon_color=007ACC&theme=clean" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizhmuzani&hide_border=true&background=ffffff&ring=007ACC&fire=007ACC&currStreakNum=434d58&currStreakLabel=007ACC&sideNums=434d58&sideLabels=007ACC&dates=434d58" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=hafizhmuzani&show_icons=true&hide_border=true&title_color=007ACC&text_color=434d58&icon_color=007ACC&bg_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hafizhmuzani&hide_border=true&background=ffffff&ring=007ACC&fire=007ACC&currStreakNum=434d58&currStreakLabel=007ACC&sideNums=434d58&sideLabels=007ACC&dates=434d58" height="165" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhmuzani&layout=compact&hide_border=true&bg_color=ffffff&title_color=007ACC&text_color=434d58" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=hafizhmuzani&layout=compact&hide_border=true&title_color=007ACC&text_color=434d58&bg_color=ffffff" height="165" alt="Top Languages" />
 </div>
 
 ---
