@@ -9,22 +9,25 @@
   <a href="mailto:earlyright22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/hafizhmuzani?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=IT+Student+at+UDINUS+%F0%9F%8E%93;Fullstack+TypeScript+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+%26+Automation+Bots+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=IT+Student+at+UDINUS+%F0%9F%8E%93;Fullstack+TypeScript+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Web+%26+Automation+Bots+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 Tentang Saya
-Saya adalah mahasiswa **Teknik Informatika** di Universitas Dian Nuswantoro (UDINUS) Semarang. Memiliki ketertarikan pada pengembangan perangkat lunak (Software Development) dan Kecerdasan Buatan (Machine Learning).
+Saya adalah mahasiswa **Teknik Informatika** di Universitas Dian Nuswantoro (UDINUS) Semarang. Memiliki ketertarikan pada pengembangan perangkat lunak (*Software Development*) dan Kecerdasan Buatan (*Machine Learning*).
 
 - 🎓 **Edukasi:** S1 Teknik Informatika - UDINUS
 - 💡 **Fokus Utama:** TypeScript, Python, Web Development, Data Science
-- 🚀 **Projek Berjalan:** Bot Presensi Otomatis, Prediksi ML Kelulusan, Platform E-Commerce
+- 🚀 **Projek Aktif:** Bot Presensi Otomatis, Prediksi ML Kelulusan, Platform E-Commerce
 - 📫 **Portofolio:** [hafizhmuzani.my.id](https://hafizhmuzani.my.id)
 
 ---
@@ -37,17 +40,14 @@ Saya adalah mahasiswa **Teknik Informatika** di Universitas Dian Nuswantoro (UDI
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Statistik & Aktivitas GitHub
 <div align="center">
-  <img src="https://metrics.lecoq.io/hafizhmuzani?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FJakarta" height="200" alt="GitHub Metrics" />
-</div>
-<br>
-<div align="center">
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=hafizhmuzani&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=007ACC&text_color=434d58&icon_color=007ACC&bg_color=ffffff" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=hafizhmuzani&hide_border=true&background=ffffff&ring=007ACC&fire=007ACC&currStreakNum=434d58&currStreakLabel=007ACC&sideNums=434d58&sideLabels=007ACC&dates=434d58" height="165" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=hafizhmuzani&layout=compact&hide_border=true&title_color=007ACC&text_color=434d58&bg_color=ffffff" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs?username=hafizhmuzani&layout=compact&hide_border=true&title_color=007ACC&text_color=434d58&bg_color=ffffff" height="165" alt="Top Languages" />
 </div>
 
 ---
