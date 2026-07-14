@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="spiderman-vs-venom.gif" alt="Spider-Man vs Venom header" />
+  <img src="spiderman-vs-venom.gif" alt="Spider-Man vs Venom header" width="100%" />
 </div>
 
 <div align="center">
@@ -13,8 +13,7 @@
 
 <p align="center">
   <a href="https://hafizhmuzani.my.id"><img src="https://img.shields.io/badge/Portfolio-hafizhmuzani.my.id-111111?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=111111" alt="Portfolio" /></a>
-  <a href="mailto:earlyright22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111" alt="Email" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111" alt="LinkedIn" /></a>
+  <a href="mailto:hafizmuzani011@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111" alt="Email" /></a>
   <a href="https://github.com/hafizhmuzani?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111" alt="GitHub" /></a>
 </p>
 
@@ -114,7 +113,3 @@
 <div align="center">
   <img src="venom-footer.jpg" alt="Venom footer" width="100%" />
 </div>
-
-<p align="center">
-  <em>We are Venom. 🕷️🧪</em>
-</p>
