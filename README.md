@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://hafizhmuzani.my.id"><img src="https://img.shields.io/badge/Portfolio-hafizhmuzani.my.id-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=111111" alt="Portfolio" /></a>
-  <a href="mailto:earlyright22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=111111" alt="Email" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=111111" alt="LinkedIn" /></a>
-  <a href="https://github.com/hafizhmuzani?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" alt="GitHub" /></a>
+  <a href="https://hafizhmuzani.my.id"><img src="https://img.shields.io/badge/Portfolio-hafizhmuzani.my.id-111111?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=111111" alt="Portfolio" /></a>
+  <a href="mailto:earlyright22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111" alt="Email" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111" alt="LinkedIn" /></a>
+  <a href="https://github.com/hafizhmuzani?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hafizhmuzani&style=for-the-badge&color=ffffff&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hafizhmuzani?style=for-the-badge&color=ffffff&labelColor=111111&label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=hafizhmuzani&style=for-the-badge&color=111111&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hafizhmuzani?style=for-the-badge&color=111111&labelColor=ffffff&label=Followers" alt="GitHub followers" />
 </p>
 
 ---
