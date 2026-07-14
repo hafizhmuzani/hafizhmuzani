@@ -39,7 +39,10 @@ Saya adalah mahasiswa **Teknik Informatika** di Universitas Dian Nuswantoro (UDI
 
 ### 📊 Statistik GitHub
 <div align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=hafizhmuzani&show_icons=true&hide_border=true&title_color=007ACC&text_color=434d58&icon_color=007ACC&bg_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/hafizhmuzani?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FJakarta" height="200" alt="GitHub Metrics" />
+</div>
+<br>
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=hafizhmuzani&hide_border=true&background=ffffff&ring=007ACC&fire=007ACC&currStreakNum=434d58&currStreakLabel=007ACC&sideNums=434d58&sideLabels=007ACC&dates=434d58" height="165" alt="GitHub Streak" />
 </div>
 <br>
